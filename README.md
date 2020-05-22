@@ -3,7 +3,7 @@
     Project Template
 </p>
 <p align="center">
-    Pre-configured, configurable TypeScript project that includes ESLint and Prettier
+    A pre-configured, configurable template that includes ESLint and Prettier
 </p>
 
 ## Description
