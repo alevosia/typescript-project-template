@@ -1,11 +1,8 @@
 <p align="center">
-    <img src="https://www.typescriptlang.org/assets/images/logo.svg"
-         alt="TypeScript" 
-         title="TypeScript"
-         width="200"
-    />
-    <br />
-    Project Template <br />
+    <img src="https://i.imgur.com/rOMZs3s.png" width="200" title="TypeScript" alt="TypeScript"> <br />
+    Project Template
+</p>
+<p align="center">
     Pre-configured TypeScript project that includes ESLint and Prettier
 </p>
 
