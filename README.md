@@ -13,7 +13,7 @@ However, code that doesn't follow the Prettier configuration will appear as ESLi
 
 ## How To Use
 
-1. Create your own repo by clicking the 'Use this template' green button beside the 'Clone or download'
+1. Create your own repo by clicking the 'Use this template' green button beside the 'Clone or download'.
 2. Clone your own repo that Github created for you.
 3. Start hacking!
 
@@ -26,3 +26,10 @@ However, code that doesn't follow the Prettier configuration will appear as ESLi
 -   eslint-plugin-prettier
 -   prettier
 -   typescript
+
+Details on how the eslint and prettier packages are used are found on `.eslintrc`.
+
+## Acknowledgement
+
+Special thanks to [Robert Cooper](https://dev.to/robertcoopercode) for his
+[ESLint and Prettier Setup Guide](https://dev.to/robertcoopercode/using-eslint-and-prettier-in-a-typescript-project-53jb)
