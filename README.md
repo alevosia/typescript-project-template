@@ -9,7 +9,7 @@
 ## Description
 
 This template configures ESLint as both the linter and formatter.  
-However, code that doesn't follow the Prettier configuration will appear as ESLint errors and will be fixed by ESLint.  
+However, code that doesn't follow the Prettier configuration will appear as ESLint errors and will be fixed by ESLint.
 
 Feel free to configure `.prettierrc` based on your preferences.
 
@@ -21,13 +21,13 @@ Feel free to configure `.prettierrc` based on your preferences.
 
 ## Dependencies
 
--   typescript-eslint/eslint-plugin
--   @typescript-eslint/parser
+-   typescript
 -   eslint
+-   prettier
+-   @typescript-eslint/eslint-plugin
+-   @typescript-eslint/parser
 -   eslint-config-prettier
 -   eslint-plugin-prettier
--   prettier
--   typescript
 
 Details on how the eslint and prettier packages are used are found on `.eslintrc`.
 
