@@ -3,13 +3,15 @@
     Project Template
 </p>
 <p align="center">
-    Pre-configured TypeScript project that includes ESLint and Prettier
+    Pre-configured, configurable TypeScript project that includes ESLint and Prettier
 </p>
 
 ## Description
 
 This template configures ESLint as both the linter and formatter.  
-However, code that doesn't follow the Prettier configuration will appear as ESLint errors and will be fixed by ESLint.
+However, code that doesn't follow the Prettier configuration will appear as ESLint errors and will be fixed by ESLint.  
+
+Feel free to configure `.prettierrc` based on your preferences.
 
 ## How To Use
 
