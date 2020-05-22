@@ -5,7 +5,9 @@
 	"main": "src/app.ts",
 	"scripts": {
 		"dev": "tsc -w",
-		"build": "tsc"
+		"build": "tsc",
+		"lint": "eslint .",
+		"lint:fix": "eslint . --fix"
 	},
 	"keywords": [],
 	"author": "Alevosia",
